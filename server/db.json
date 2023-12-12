@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "1b7228f6-998c-40c6-8e98-d5a248435e80",
+      "title": "SD",
+      "userId": 1,
+      "completed": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "useremail": "user1@gmail.com",
+      "password": 123
+    },
+    {
+      "id": 2,
+      "useremail": "user2@gmail.com",
+      "password": 321
+    }
+  ]
+}

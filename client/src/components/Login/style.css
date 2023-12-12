@@ -1,0 +1,25 @@
+.login {
+  position: fixed;
+  inset: 0;
+  background-color: #00000061;
+  display: grid;
+  place-items: center;
+}
+
+form {
+  width: 300px;
+  padding: 20px;
+  box-shadow: 0 0 10px -2px violet;
+  background-color: #fff;
+}
+
+form input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
