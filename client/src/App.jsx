@@ -4,7 +4,7 @@ import Todo from "./components/Todo";
 
 function App() {
   const [login, setLogin] = useState(false);
-  const [userId, setUserId] = useState(undefined);
+  const [userId, setUserId] = useState(null);
   return (
     <div>
       {login ? (
